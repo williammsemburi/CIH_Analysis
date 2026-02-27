@@ -1,0 +1,136 @@
+﻿name,id,cih_module,function
+BCG vaccine,27,Routine childhood immunization,primary
+MMR vaccine,28,Routine childhood immunization,primary
+Pentavalent vaccine (DPT-HepB-Hib),29,Routine childhood immunization,primary
+Pneumococcal vaccine,30,Routine childhood immunization,primary
+Polio vaccine,31,Routine childhood immunization,primary
+Rotavirus vaccine,32,Routine childhood immunization,primary
+Treatment of acute diarrhea in adults,33,Other infectious and maternal health conditions,NA
+Treatment of acute diarrhea in children,34,Treatment of acute childhood illness,emergency
+Treatment of typhoid and paratyphoid in adults,36,Other infectious and maternal health conditions,NA
+Treatment of typhoid and paratyphoid in children,37,Treatment of acute childhood illness,emergency
+Longitudinal management of hepatitis B,38,Other infectious and maternal health conditions,NA
+Treatment of hepatitis C,39,Other infectious and maternal health conditions,NA
+"Supportive care for acute hepatitis A, adults",40,Other infectious and maternal health conditions,NA
+"Supportive care for acute hepatitis A, children",41,Treatment of acute childhood illness,emergency
+PrEP for population at high risk of HIV (in high prevalence settings),42,HIV/AIDS,primary
+Voluntary medical male circumcision service in settings with high prevalence of HIV,43,HIV/AIDS,primary
+Management of HIV,44,HIV/AIDS,primary
+"Treatment of acute lower respiratory infections, adults",45,Other infectious and maternal health conditions,NA
+"Treatment of acute lower respiratory infections, children",46,Treatment of acute childhood illness,emergency
+Intermittent malaria prevention during pregnancy,47,Pregnancy and childbirth services,primary
+Treatment of measles,54,Treatment of acute childhood illness,emergency
+Treatment of chlamydia,56,HIV/AIDS,primary
+Treatment of gonorrhea,57,HIV/AIDS,primary
+Treatment of PID (Pelvic Inflammatory Disease),58,HIV/AIDS,primary
+Treatment of syphilis,59,HIV/AIDS,primary
+Treatment of trichomoniasis,60,HIV/AIDS,primary
+Treatment of extensively drug-resistant TB,61,Tuberculosis,primary
+Treatment of multidrug-resistant TB,62,Tuberculosis,primary
+Surgery for TB treatment failure,63,Other infectious and maternal health conditions,NA
+Management of drug susceptible extrapulmonary TB,64,Tuberculosis,primary
+Management of drug susceptible pulmonary TB,65,Tuberculosis,primary
+TB preventive therapy (Isoniazide) for high risk people (e.g. PLHIV),66,Tuberculosis,primary
+Treatment of urinary tract infection,67,Other infectious and maternal health conditions,primary
+Treatment of Chagas disease,68,Other infectious and maternal health conditions,NA
+Treatment of Echinococcosis,69,Other infectious and maternal health conditions,NA
+Treatment of Human African trypanosomiasis,70,Other infectious and maternal health conditions,NA
+Treatment of Leishmaniasis,71,Other infectious and maternal health conditions,NA
+Treatment of Trachoma,72,Other infectious and maternal health conditions,NA
+Palliative care,73,Custodial and palliative care,primary
+Sickle cell screening and management,74,Enhanced cardiovascular and respiratory care,primary
+Organized screening for breast cancer,82,Enhanced cancer care,NA
+Treatment of breast cancer,83,Basic cancer care,NA
+Human Papillomavirus (HPV) immunization,84,School-aged child and adolescent development,NA
+Screening and treatment of pre-invasive cervical cancer,85,Basic cancer care,primary
+Treatment of cervical cancer,86,Basic cancer care,NA
+Treatment of Retinoblastoma,87,Basic cancer care,NA
+Treatment of acute lymphoblastic leukemia in children,88,Enhanced cancer care,NA
+Treatment of Burkitt lymphoma in children,89,Enhanced cancer care,NA
+Treatment of Hodgkin lymphoma in children,90,Enhanced cancer care,NA
+Treatment of Wilms tumor,91,Enhanced cancer care,NA
+Organized screening for colorectal cancer,92,Enhanced cancer care,NA
+Treatment of colorectal cancer,93,Basic cancer care,NA
+Primary prevention with absolute CVD risk,94,Basic cardiovascular and respiratory care,primary
+Rehabilitation of stroke,95,Rehabilitation,primary
+Secondary prevention of stroke,96,Basic cardiovascular and respiratory care,primary
+Longitudinal management of chronic heart failure,97,Basic cardiovascular and respiratory care,primary
+Management of acute heart failure,98,Enhanced cardiovascular and respiratory care,primary
+Treatment of acute coronary syndromes,99,Enhanced cardiovascular and respiratory care,emergency
+Exercise based cardiac rehabilitation,100,Rehabilitation,primary
+Secondary prevention of ischemic heart disease,101,Basic cardiovascular and respiratory care,primary
+Amputation due to acute limb ischemia (last resort),102,Other NCD and injury-related conditions,NA
+Heparin-revascularization treatment of acute limb ischemia,103,Other NCD and injury-related conditions,NA
+Secondary prevention of peripheral vascular disease,104,Basic cardiovascular and respiratory care,primary
+RHD secondary prevention,105,Enhanced cardiovascular and respiratory care,primary
+Treatment of acute pharyngitis in children,106,Treatment of acute childhood illness,primary
+"Rheumatic heart disease, cardiac surgery",107,Other NCD and injury-related conditions,NA
+Longitudinal management of asthma,108,Basic cardiovascular and respiratory care,primary
+Treatment of acute exacerbation of asthma,109,Enhanced cardiovascular and respiratory care,emergency
+Longitudinal management of COPD,110,Basic cardiovascular and respiratory care,primary
+Exercise-based pulmonary rehabilitation of COPD,111,Rehabilitation,primary
+Treatment of acute exacerbation of COPD,112,Enhanced cardiovascular and respiratory care,emergency
+Influenza and pneumococcal vaccine for people with chronic respiratory disease,113,Basic cardiovascular and respiratory care,primary
+Management of appendicitis,114,Primary surgical care,emergency
+Management of gallbladder and biliary diseases,115,Primary surgical care,emergency
+Management of gastrointestinal bleeding,116,Primary surgical care,emergency
+"Management of hernias (inguinal, femoral, abdominal)",117,Primary surgical care,emergency
+Management of ileus and intestinal obstruction,118,Primary surgical care,emergency
+Dental care,119,Dental care,primary
+Longitudinal management of diabetes mellitus type 1,120,Basic cardiovascular and respiratory care,primary
+Longitudinal management of diabetes mellitus type 2,121,Basic cardiovascular and respiratory care,primary
+Prevention of osteoporosis,122,Other NCD and injury-related conditions,primary
+Management of acute kidney disease,123,Other NCD and injury-related conditions,NA
+"End stage kidney failure, hemodialysis",124,Other NCD and injury-related conditions,NA
+Management of anxiety disorders,125,Mental health care,primary
+Management of PTSD,126,Mental health care,primary
+Management of attention disorders,127,Other NCD and injury-related conditions,NA
+Management of bipolar disorder,128,Mental health care,primary
+Management of depression,129,Mental health care,primary
+Management of psychotic disorders,130,Mental health care,primary
+Management of suicide and self harm,131,Mental health care,emergency
+Basic management of migraine,132,Other NCD and injury-related conditions,NA
+Management of non-responders with migraine,133,Other NCD and injury-related conditions,NA
+Insertion of shunt for hydrocephalus (congenital),134,Other NCD and injury-related conditions,NA
+Basic management of epilepsy,135,Mental health care,primary
+Basic management of dementia,136,Custodial and palliative care,primary
+Advanced management of dementia,137,Other NCD and injury-related conditions,NA
+Basic management of Parkinson's disease,138,Other NCD and injury-related conditions,NA
+Diabetic retinopathy screening and photocoagulation,139,Enhanced cardiovascular and respiratory care,primary
+Glasses for adults,140,Rehabilitation,primary
+Treatment of cataract,141,Other NCD and injury-related conditions,NA
+Glasses for children,142,School-aged child and adolescent development,NA
+Screening and brief intervention for AUD,143,Mental health care,primary
+Opioid Agonist Treatment (OAT) and psychosocial support,144,Mental health care,primary
+Tobacco cessation counseling (including nicotine agonist treatment),145,Basic cardiovascular and respiratory care,primary
+Care for complications of abortion,146,Family planning,primary
+Induced abortion,147,Family planning,primary
+Treatment of ectopic pregnancy,148,Pregnancy and childbirth services,emergency
+Antenatal care,149,Pregnancy and childbirth services,primary
+Management of maternal sepsis,150,Pregnancy and childbirth services,emergency
+Management of postpartum hemorrhage,151,Pregnancy and childbirth services,emergency
+Safe delivery,152,Pregnancy and childbirth services,emergency
+Early care for newborn,153,Pregnancy and childbirth services,emergency
+Early detection and treatment of neonatal sepsis and pneumonia,154,Pregnancy and childbirth services,emergency
+Management of lower extremity injuries,156,Primary surgical care,emergency
+Management of pelvic injury (including urogenital),157,Primary surgical care,emergency
+Management of upper extremity fractures,158,Primary surgical care,emergency
+Acute intracranial pressure relief,159,Primary surgical care,emergency
+Management of thoracoabdominal injury,160,Primary surgical care,emergency
+Management of wounds (excluding burns),161,Primary surgical care,emergency
+Management of burns,163,Primary surgical care,emergency
+Post gender-based violence care,164,HIV/AIDS,emergency
+Intoxication management,165,Mental health care,emergency
+"End stage kidney failure, peritoneal dialysis",168,Other NCD and injury-related conditions,NA
+"End stage kidney failure, renal transplantation",169,Other NCD and injury-related conditions,NA
+Treatment of acute malnutrition,178,Treatment of acute childhood illness,emergency
+Treatment of malaria,179,Treatment of acute childhood illness,emergency
+Treatment of oral cancer,180,Basic cancer care,NA
+Intermittent malaria prevention in infancy,190,Treatment of acute childhood illness,primary
+Surgery for club foot,200,Other NCD and injury-related conditions,NA
+Male or Female Sterilization,206,Family planning,primary
+LARC methods,224,Family planning,primary
+Injectables - Family planning,226,Family planning,primary
+Condoms - Family planning,227,Family planning,primary
+"Contraceptive pills, patches or rings",228,Family planning,primary
+Other modern methods of contraception,229,Family planning,primary

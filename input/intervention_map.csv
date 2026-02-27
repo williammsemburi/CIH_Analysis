@@ -1,0 +1,136 @@
+name,id,cih_module,function,category,package_status
+BCG vaccine,27,Routine childhood immunization,primary,Infections and maternal health conditions (I-8),Core
+MMR vaccine,28,Routine childhood immunization,primary,Infections and maternal health conditions (I-8),Core
+Pentavalent vaccine (DPT-HepB-Hib),29,Routine childhood immunization,primary,Infections and maternal health conditions (I-8),Core
+Pneumococcal vaccine,30,Routine childhood immunization,primary,Infections and maternal health conditions (I-8),Core
+Polio vaccine,31,Routine childhood immunization,primary,Infections and maternal health conditions (I-8),Core
+Rotavirus vaccine,32,Routine childhood immunization,primary,Infections and maternal health conditions (I-8),Core
+Treatment of acute diarrhea in adults,33,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Treatment of acute diarrhea in children,34,Treatment of acute childhood illness,emergency,Infections and maternal health conditions (I-8),Core
+Treatment of typhoid and paratyphoid in adults,36,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Treatment of typhoid and paratyphoid in children,37,Treatment of acute childhood illness,emergency,Infections and maternal health conditions (I-8),Core
+Longitudinal management of hepatitis B,38,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Treatment of hepatitis C,39,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+"Supportive care for acute hepatitis A, adults",40,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+"Supportive care for acute hepatitis A, children",41,Treatment of acute childhood illness,emergency,Infections and maternal health conditions (I-8),Core
+PrEP for population at high risk of HIV (in high prevalence settings),42,HIV/AIDS,primary,Infections and maternal health conditions (I-8),Core
+Voluntary medical male circumcision service in settings with high prevalence of HIV,43,HIV/AIDS,primary,Infections and maternal health conditions (I-8),Core
+Management of HIV,44,HIV/AIDS,primary,Infections and maternal health conditions (I-8),Core
+"Treatment of acute lower respiratory infections, adults",45,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+"Treatment of acute lower respiratory infections, children",46,Treatment of acute childhood illness,emergency,Infections and maternal health conditions (I-8),Core
+Intermittent malaria prevention during pregnancy,47,Pregnancy and childbirth services,primary,Infections and maternal health conditions (I-8),Core
+Treatment of measles,54,Treatment of acute childhood illness,emergency,Infections and maternal health conditions (I-8),Core
+Treatment of chlamydia,56,HIV/AIDS,primary,Infections and maternal health conditions (I-8),Core
+Treatment of gonorrhea,57,HIV/AIDS,primary,Infections and maternal health conditions (I-8),Core
+Treatment of PID (Pelvic Inflammatory Disease),58,HIV/AIDS,primary,Infections and maternal health conditions (I-8),Core
+Treatment of syphilis,59,HIV/AIDS,primary,Infections and maternal health conditions (I-8),Core
+Treatment of trichomoniasis,60,HIV/AIDS,primary,Infections and maternal health conditions (I-8),Core
+Treatment of extensively drug-resistant TB,61,Tuberculosis,primary,Infections and maternal health conditions (I-8),Core
+Treatment of multidrug-resistant TB,62,Tuberculosis,primary,Infections and maternal health conditions (I-8),Core
+Surgery for TB treatment failure,63,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Management of drug susceptible extrapulmonary TB,64,Tuberculosis,primary,Infections and maternal health conditions (I-8),Core
+Management of drug susceptible pulmonary TB,65,Tuberculosis,primary,Infections and maternal health conditions (I-8),Core
+TB preventive therapy (Isoniazide) for high risk people (e.g. PLHIV),66,Tuberculosis,primary,Infections and maternal health conditions (I-8),Core
+Treatment of urinary tract infection,67,Other infectious and maternal health conditions,primary,Infections and maternal health conditions (I-8),Supplementary
+Treatment of Chagas disease,68,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Treatment of Echinococcosis,69,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Treatment of Human African trypanosomiasis,70,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Treatment of Leishmaniasis,71,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Treatment of Trachoma,72,Other infectious and maternal health conditions,NA,Infections and maternal health conditions (I-8),Supplementary
+Palliative care,73,Custodial and palliative care,primary,Other,Other
+Sickle cell screening and management,74,Enhanced cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Organized screening for breast cancer,82,Enhanced cancer care,NA,NCDs and injuries (NCD-7),Core
+Treatment of breast cancer,83,Basic cancer care,NA,NCDs and injuries (NCD-7),Core
+Human Papillomavirus (HPV) immunization,84,School-aged child and adolescent development,NA,Other,Other
+Screening and treatment of pre-invasive cervical cancer,85,Basic cancer care,primary,NCDs and injuries (NCD-7),Core
+Treatment of cervical cancer,86,Basic cancer care,NA,NCDs and injuries (NCD-7),Core
+Treatment of Retinoblastoma,87,Basic cancer care,NA,NCDs and injuries (NCD-7),Core
+Treatment of acute lymphoblastic leukemia in children,88,Enhanced cancer care,NA,NCDs and injuries (NCD-7),Core
+Treatment of Burkitt lymphoma in children,89,Enhanced cancer care,NA,NCDs and injuries (NCD-7),Core
+Treatment of Hodgkin lymphoma in children,90,Enhanced cancer care,NA,NCDs and injuries (NCD-7),Core
+Treatment of Wilms tumor,91,Enhanced cancer care,NA,NCDs and injuries (NCD-7),Core
+Organized screening for colorectal cancer,92,Enhanced cancer care,NA,NCDs and injuries (NCD-7),Core
+Treatment of colorectal cancer,93,Basic cancer care,NA,NCDs and injuries (NCD-7),Core
+Primary prevention with absolute CVD risk,94,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Rehabilitation of stroke,95,Rehabilitation,primary,NCDs and injuries (NCD-7),Core
+Secondary prevention of stroke,96,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Longitudinal management of chronic heart failure,97,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Management of acute heart failure,98,Enhanced cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Treatment of acute coronary syndromes,99,Enhanced cardiovascular and respiratory care,emergency,NCDs and injuries (NCD-7),Core
+Exercise based cardiac rehabilitation,100,Rehabilitation,primary,NCDs and injuries (NCD-7),Core
+Secondary prevention of ischemic heart disease,101,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Amputation due to acute limb ischemia (last resort),102,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Heparin-revascularization treatment of acute limb ischemia,103,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Secondary prevention of peripheral vascular disease,104,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+RHD secondary prevention,105,Enhanced cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Treatment of acute pharyngitis in children,106,Treatment of acute childhood illness,primary,Infections and maternal health conditions (I-8),Core
+"Rheumatic heart disease, cardiac surgery",107,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Longitudinal management of asthma,108,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Treatment of acute exacerbation of asthma,109,Enhanced cardiovascular and respiratory care,emergency,NCDs and injuries (NCD-7),Core
+Longitudinal management of COPD,110,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Exercise-based pulmonary rehabilitation of COPD,111,Rehabilitation,primary,NCDs and injuries (NCD-7),Core
+Treatment of acute exacerbation of COPD,112,Enhanced cardiovascular and respiratory care,emergency,NCDs and injuries (NCD-7),Core
+Influenza and pneumococcal vaccine for people with chronic respiratory disease,113,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Management of appendicitis,114,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Management of gallbladder and biliary diseases,115,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Management of gastrointestinal bleeding,116,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+"Management of hernias (inguinal, femoral, abdominal)",117,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Management of ileus and intestinal obstruction,118,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Dental care,119,Dental care,primary,Other,Other
+Longitudinal management of diabetes mellitus type 1,120,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Longitudinal management of diabetes mellitus type 2,121,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Prevention of osteoporosis,122,Other NCD and injury-related conditions,primary,NCDs and injuries (NCD-7),Supplementary
+Management of acute kidney disease,123,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+"End stage kidney failure, hemodialysis",124,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Management of anxiety disorders,125,Mental health care,primary,NCDs and injuries (NCD-7),Core
+Management of PTSD,126,Mental health care,primary,NCDs and injuries (NCD-7),Core
+Management of attention disorders,127,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Management of bipolar disorder,128,Mental health care,primary,NCDs and injuries (NCD-7),Core
+Management of depression,129,Mental health care,primary,NCDs and injuries (NCD-7),Core
+Management of psychotic disorders,130,Mental health care,primary,NCDs and injuries (NCD-7),Core
+Management of suicide and self harm,131,Mental health care,emergency,NCDs and injuries (NCD-7),Core
+Basic management of migraine,132,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Management of non-responders with migraine,133,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Insertion of shunt for hydrocephalus (congenital),134,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Basic management of epilepsy,135,Mental health care,primary,NCDs and injuries (NCD-7),Core
+Basic management of dementia,136,Custodial and palliative care,primary,Other,Other
+Advanced management of dementia,137,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Basic management of Parkinson's disease,138,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Diabetic retinopathy screening and photocoagulation,139,Enhanced cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Glasses for adults,140,Rehabilitation,primary,NCDs and injuries (NCD-7),Core
+Treatment of cataract,141,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Glasses for children,142,School-aged child and adolescent development,NA,Other,Other
+Screening and brief intervention for AUD,143,Mental health care,primary,NCDs and injuries (NCD-7),Core
+Opioid Agonist Treatment (OAT) and psychosocial support,144,Mental health care,primary,NCDs and injuries (NCD-7),Core
+Tobacco cessation counseling (including nicotine agonist treatment),145,Basic cardiovascular and respiratory care,primary,NCDs and injuries (NCD-7),Core
+Care for complications of abortion,146,Family planning,primary,Other,Other
+Induced abortion,147,Family planning,primary,Other,Other
+Treatment of ectopic pregnancy,148,Pregnancy and childbirth services,emergency,Infections and maternal health conditions (I-8),Core
+Antenatal care,149,Pregnancy and childbirth services,primary,Infections and maternal health conditions (I-8),Core
+Management of maternal sepsis,150,Pregnancy and childbirth services,emergency,Infections and maternal health conditions (I-8),Core
+Management of postpartum hemorrhage,151,Pregnancy and childbirth services,emergency,Infections and maternal health conditions (I-8),Core
+Safe delivery,152,Pregnancy and childbirth services,emergency,Infections and maternal health conditions (I-8),Core
+Early care for newborn,153,Pregnancy and childbirth services,emergency,Infections and maternal health conditions (I-8),Core
+Early detection and treatment of neonatal sepsis and pneumonia,154,Pregnancy and childbirth services,emergency,Infections and maternal health conditions (I-8),Core
+Management of lower extremity injuries,156,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Management of pelvic injury (including urogenital),157,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Management of upper extremity fractures,158,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Acute intracranial pressure relief,159,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Management of thoracoabdominal injury,160,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Management of wounds (excluding burns),161,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Management of burns,163,Primary surgical care,emergency,NCDs and injuries (NCD-7),Core
+Post gender-based violence care,164,HIV/AIDS,emergency,Infections and maternal health conditions (I-8),Core
+Intoxication management,165,Mental health care,emergency,NCDs and injuries (NCD-7),Core
+"End stage kidney failure, peritoneal dialysis",168,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+"End stage kidney failure, renal transplantation",169,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Treatment of acute malnutrition,178,Treatment of acute childhood illness,emergency,Infections and maternal health conditions (I-8),Core
+Treatment of malaria,179,Treatment of acute childhood illness,emergency,Infections and maternal health conditions (I-8),Core
+Treatment of oral cancer,180,Basic cancer care,NA,NCDs and injuries (NCD-7),Core
+Intermittent malaria prevention in infancy,190,Treatment of acute childhood illness,primary,Infections and maternal health conditions (I-8),Core
+Surgery for club foot,200,Other NCD and injury-related conditions,NA,NCDs and injuries (NCD-7),Supplementary
+Male or Female Sterilization,206,Family planning,primary,Other,Other
+LARC methods,224,Family planning,primary,Other,Other
+Injectables - Family planning,226,Family planning,primary,Other,Other
+Condoms - Family planning,227,Family planning,primary,Other,Other
+"Contraceptive pills, patches or rings",228,Family planning,primary,Other,Other
+Other modern methods of contraception,229,Family planning,primary,Other,Other

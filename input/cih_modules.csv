@@ -1,0 +1,34 @@
+cih_module,condition_number,condition_name,notes
+Pregnancy and childbirth services,1,Neonatal conditions,"Newborn care, neonatal sepsis and pneumonia"
+Treatment of acute childhood illness,1,Neonatal conditions,Acute malnutrition in children
+Treatment of acute childhood illness,2,Lower respiratory infections,Pneumonia treatment in children
+Treatment of acute childhood illness,3,Diarrheal diseases,Acute diarrhea treatment
+HIV/AIDS,4,HIV/AIDS,All HIV interventions including STI treatment
+Tuberculosis,5,Tuberculosis,All TB interventions
+Treatment of acute childhood illness,6,Malaria,"Malaria treatment, IPTi"
+Routine childhood immunization,7,Childhood cluster diseases,"Vaccines prevent measles, diphtheria, whooping cough, tetanus"
+Treatment of acute childhood illness,7,Childhood cluster diseases,"Measles treatment, pharyngitis"
+Pregnancy and childbirth services,8,Maternal conditions,"Pregnancy care, delivery, postpartum"
+Basic cardiovascular and respiratory care,9,Atherosclerotic CVDs,"CVD prevention, IHD, stroke prevention, CHF, PVD"
+Enhanced cardiovascular and respiratory care,9,Atherosclerotic CVDs,"Acute coronary syndromes, acute heart failure"
+Primary surgical care,9,Atherosclerotic CVDs,GI bleeding (can be related to CVD medications)
+Rehabilitation,9,Atherosclerotic CVDs,"Stroke rehab, cardiac rehab"
+Enhanced cardiovascular and respiratory care,10,Hemorrhagic stroke,RHD can cause hemorrhagic complications
+Basic cancer care,11,NCDs linked to infections,Cervical cancer from HPV
+Enhanced cancer care,11,NCDs linked to infections,Liver cancer from Hep B/C (implied in screening)
+Enhanced cardiovascular and respiratory care,11,NCDs linked to infections,Rheumatic heart disease from strep infections
+Basic cancer care,12,NCDs linked to tobacco,Oral cancer
+Basic cardiovascular and respiratory care,12,NCDs linked to tobacco,"COPD, asthma management, tobacco cessation"
+Enhanced cancer care,12,NCDs linked to tobacco,Lung cancer (implied in screening)
+Enhanced cardiovascular and respiratory care,12,NCDs linked to tobacco,"Acute COPD/asthma exacerbations, sickle cell"
+Mental health care,12,NCDs linked to tobacco,"Substance use: AUD screening, OAT, tobacco cessation"
+Rehabilitation,12,NCDs linked to tobacco,COPD pulmonary rehab
+Basic cardiovascular and respiratory care,13,Diabetes,Diabetes type 1 and 2 management
+Enhanced cardiovascular and respiratory care,13,Diabetes,Diabetic retinopathy screening and treatment
+Primary surgical care,14,Road injury,"Trauma surgery: fractures, head injury, thoracoabdominal, burns"
+Rehabilitation,14,Road injury,"Injury rehabilitation, glasses for adults"
+Mental health care,15,Suicide,"Suicide/self-harm management, intoxication management"
+Basic cancer care,16,Other conditions,"Breast cancer, colorectal cancer, retinoblastoma"
+Enhanced cancer care,16,Other conditions,"Childhood cancers (ALL, Burkitt, Hodgkin, Wilms), breast screening, colorectal screening"
+Mental health care,16,Other conditions,"Anxiety, depression, PTSD, bipolar, psychosis, epilepsy"
+Primary surgical care,16,Other conditions,"Appendicitis, hernias, gallbladder disease, intestinal obstruction"
